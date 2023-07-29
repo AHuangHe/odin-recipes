@@ -1,0 +1,45 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+body {
+  background-color: aquamarine;
+}
+
+.title {
+  background-color: teal;
+  color: white;
+  -webkit-text-stroke: 1px black;
+  padding: 16px;
+  margin: auto;
+  font-size: 32px;
+}
+
+img {
+  display: block;
+  margin: 48px auto;
+  width: 500px;
+  height: auto;
+}
+
+.list {
+  padding: 16px 24px;
+  margin: 8px auto;
+}
+
+.element {
+  padding: 8px;
+  margin: 24px;
+  font-size: 20px;
+}
+
+.desc {
+  padding: 16px;
+  margin: 8px auto;
+  font-size: 24px;
+}
+
+h2.title {
+  margin-top: 40px;
+}
